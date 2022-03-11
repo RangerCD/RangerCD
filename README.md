@@ -23,7 +23,7 @@ As a gamer:
 * ✔️ 📚Visual Novel
 * ✔️ 🎹Music
 * ✔️ 👓VR
-* ✔️ 🚫A████
+* ✔️ 🚫█████
 * ❌ ⚖️RTS(Programming is already the best RTS game)
 
 <!--
