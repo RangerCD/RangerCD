@@ -12,6 +12,7 @@ As a programmer:
 * ✔️ 🔭Observability
 * ✔️ 🐧Kernel
 * ✔️ 🖥️Desktop Application
+* ✔️ 〉CLI
 * ✔️ 🐱Web Service
 * ❌ 🌐Front End(Sorry😟)
 * ✔️ 🐧Linux
