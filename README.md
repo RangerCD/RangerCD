@@ -9,6 +9,7 @@ A normal programmer
 As a programmer:
 * ✔️ ⌨️System Managment
 * ✔️ ☁️Cloud Native
+* ✔️ 🔭Observability
 * ✔️ 🐧Kernel
 * ✔️ 🖥️Desktop Application
 * ✔️ 🐱Web Service
