@@ -4,6 +4,8 @@
 
 A normal programmer
 
+Nope, I don't build cars. But I build systems for engineers who build systems for building cars.
+
 ## What am I interested in?
 
 As a programmer:
