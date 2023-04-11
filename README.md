@@ -13,6 +13,7 @@ As a programmer:
 * ✔️ ☁️Cloud Native
 * ✔️ 🔭Observability
 * ✔️ 🐧Kernel
+* ✔️ 🤖AI
 * ✔️ 🖥️Desktop Application
 * ✔️ 〉CLI
 * ✔️ 🐱Web Service
