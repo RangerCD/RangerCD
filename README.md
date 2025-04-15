@@ -13,11 +13,11 @@ As a programmer:
 * ✔️ 🐧Kernel
 * ✔️ 🤖AI
 * ✔️ 🖥️Desktop Application
-* ✔️ 〉CLI
+* ✔️ >_CLI
 * ✔️ 🐱Web Service
 * ❌ 🌐Front End(Sorry😟)
 * ✔️ 🐧Linux
-* ✔️ ⊞Windows
+* ✔️ 🪟Windows
 * ❌ 🍎MacOS(Sorry Again😟)
 
 As a gamer:
