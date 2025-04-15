@@ -10,6 +10,7 @@ As a programmer:
 * ✔️ ⌨️System Managment
 * ✔️ ☁️Cloud Native
 * ✔️ 🔭Observability
+* ✔️ 💽Storage
 * ✔️ 🐧Kernel
 * ✔️ 🤖AI
 * ✔️ 🖥️Desktop Application
